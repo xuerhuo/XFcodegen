@@ -1,0 +1,22 @@
+{
+  "filename": "/{{tableName}}Controller.php",
+  "params": [
+    {
+      "param_name": "model",
+      "param_desc": "模块",
+      "param_value": "home"
+    } , {
+      "param_name": "Umodel",
+      "param_desc": "模块大写名称",
+      "param_value": "Ce"
+    } ,  {
+      "param_name": "author",
+      "param_desc": "作者",
+      "param_value": "蓝袖双"
+    },{
+      "param_name": "managecontrooler",
+      "param_desc": "controller名称",
+      "param_value": "index"
+    }
+  ]
+}

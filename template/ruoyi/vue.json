@@ -1,0 +1,10 @@
+{
+  "filename": "/vue/views/{{module}}/{{TableName}}.vue",
+  "params": [
+    {
+      "param_name": "module",
+      "param_desc": "模块名称",
+      "param_value": "sns"
+    }
+  ]
+}

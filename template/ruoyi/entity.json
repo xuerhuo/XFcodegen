@@ -1,0 +1,10 @@
+{
+  "filename": "/entity/{{TableName}}.java",
+  "params": [
+    {
+      "param_name": "author",
+      "param_desc": "描述",
+      "param_value": "许繁"
+    }
+  ]
+}
