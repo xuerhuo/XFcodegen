@@ -4,4 +4,4 @@
 - php模板参考见目录: /template/cms
 - spring ruoyi模板参考见目录: /template/ruoyi
 ### 软件预览
-![avatar](screen/20210623083558.png)
+![screen](screen/20210623083558.png)
